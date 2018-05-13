@@ -119,3 +119,4 @@ void timecmp(void)
 	}
 	printf("\n");
 }
+
